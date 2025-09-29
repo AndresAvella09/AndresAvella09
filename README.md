@@ -1,8 +1,8 @@
 <h1 align="center">👨‍💻 Diego Andrés Avella 🚀</h1>
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:7D3C98&height=230&section=header&text=Diego%20Andr%C3%A9s%20Avella&fontSize=42&fontColor=fff&animation=fadeIn&desc=Estudiante%20de%20Ingenier%C3%ADa%20Estad%C3%ADstica%20%7C%20Data%20%26%20Machine%20Learning&descAlignY=58&descAlign=50&v=2
-" alt="header capsule"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:7B0619&height=230&section=header&text=Diego%20Andrés%20Avella%20Acevedo&fontSize=42&fontColor=fff&animation=fadeIn&descAlignY=58&descAlign=50" alt="header capsule"/>
 </p>
 
 
