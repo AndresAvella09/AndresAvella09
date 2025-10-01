@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/Email-diegoandresavella%40gmail.com-7D3C98?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/your-github-username/">
-    <img src="https://img.shields.io/badge/GitHub-DiegoAvella-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-AndresAvella09-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <img src="https://img.shields.io/badge/Location-Bogot%C3%A1,%20Colombia-8A2BE2?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </div>
