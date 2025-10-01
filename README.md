@@ -118,7 +118,7 @@
 ## 📫 Contacto / Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin-aqui/">
+  <a href="https://www.linkedin.com/in/avella09/">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Avella-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:diegoandresavella@gmail.com">
